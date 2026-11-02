@@ -65,9 +65,9 @@ Proyecto personal enfocado en facilitar la organización del estudio, las tareas
 
 ## 📫 Puedes encontrarme en
 
-- 🌐 Portfolio: [Mi portfolio]((https://github.com/paula-aceituno/mi-portafolio))
+- 🌐 Portafolio: [Mi portfolio]((https://github.com/paula-aceituno/mi-portafolio)]
 - 💼 LinkedIn: [[Mi perfil](https://www.linkedin.com/in/paula-aceituno-sanchez)]
-- 🐙 GitHub: [Mis repositorios]([https://github.com/TU_USUARIO](https://github.com/paula-aceituno)]
+- 🐙 GitHub: [Mis repositorios](https://github.com/paula-aceituno)]
 
 ---
 
